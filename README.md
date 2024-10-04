@@ -1,3 +1,11 @@
+##### This App is Live and Running At the following
+#### https://epics-project-jobsearch.vercel.app/
+
+
+
+
+ - don't forget to leave a star! :)
+
 # JobSewa
 
 JobSewa is a unique e-job portal designed to directly connect laborers such as plumbers, electricians, carpenters, and other similar professionals with job employers. The platform provides better accessibility and more opportunities for local workers, enabling them to connect directly with potential employers quickly and efficiently.
